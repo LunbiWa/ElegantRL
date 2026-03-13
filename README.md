@@ -23,11 +23,17 @@
 </a>
 <br/>
 
-“小雅”源于《诗经·小雅·鹤鸣》，旨在「他山之石，可以攻玉」。
+ElegantRL is a lightweight and structurally clean reinforcement learning framework designed to express core RL algorithms with minimal complexity and maximal clarity.
 
-[![](https://dcbadge.vercel.app/api/server/trsr8SXpW5)](https://discord.gg/trsr8SXpW5)
+The name “Elegant” reflects its philosophy:
+small in dependency footprint, yet elegant in code structure.
+The framework avoids unnecessary third-party libraries while maintaining modular design, mathematical transparency, and engineering readability.
+
+ElegantRL focuses on implementing reinforcement learning algorithms in their pure form — clear, extensible, and efficient — without sacrificing performance or simplicity.
+
 
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AI4Finance-Foundation&repo=elegantrl&countColor=%23B17A)
+[![](https://dcbadge.limes.pink/api/server/trsr8SXpW5?cb=1)](https://discord.gg/trsr8SXpW5)
 
 
 
@@ -209,5 +215,9 @@ To cite this repository:
   year={2021}
 }
 ```
+
+
+
+
 
 
